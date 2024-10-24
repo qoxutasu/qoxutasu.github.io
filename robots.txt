@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://qoxutasu.github.io/sitemap/sitemap_index.qoxutasu
+Sitemap: https://qoxutasu.github.io/eLU/sitemap_index.qoxutasu
+Sitemap: https://qoxutasu.github.io/FbJ/sitemap_index.qoxutasu
+Sitemap: https://qoxutasu.github.io/lAw/sitemap_index.qoxutasu
+Sitemap: https://qoxutasu.github.io/eQn/sitemap_index.qoxutasu
+Sitemap: https://qoxutasu.github.io/OTE/sitemap_index.qoxutasu
+Sitemap: https://qoxutasu.github.io/YtN/sitemap_index.qoxutasu
+Sitemap: https://qoxutasu.github.io/vtU/sitemap_index.qoxutasu
+Sitemap: https://qoxutasu.github.io/UZo/sitemap_index.qoxutasu
+Sitemap: https://qoxutasu.github.io/ynQ/sitemap_index.qoxutasu
+Sitemap: https://qoxutasu.github.io/wrd/sitemap_index.qoxutasu
+Sitemap: https://qoxutasu.github.io/EOr/sitemap_index.qoxutasu
+Sitemap: https://qoxutasu.github.io/dgH/sitemap_index.qoxutasu
+Sitemap: https://qoxutasu.github.io/Edg/sitemap_index.qoxutasu
+Sitemap: https://qoxutasu.github.io/kLK/sitemap_index.qoxutasu
+Sitemap: https://qoxutasu.github.io/Lax/sitemap_index.qoxutasu
+Sitemap: https://qoxutasu.github.io/Nep/sitemap_index.qoxutasu
+Sitemap: https://qoxutasu.github.io/qgS/sitemap_index.qoxutasu
+Sitemap: https://qoxutasu.github.io/Dud/sitemap_index.qoxutasu
+Sitemap: https://qoxutasu.github.io/fPD/sitemap_index.qoxutasu
+Sitemap: https://qoxutasu.github.io/VlJ/sitemap_index.qoxutasu
